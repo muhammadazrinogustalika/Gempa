@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">praktikum82</string>
+    <string name="check_sms_permission">Check SNS Permission</string>
+    <string name="coming_from">Coming From</string>
+    <string name="txtmessage">Text Message</string>
+    <string name="close">Close</string>
+    <string name="incoming_message">Incoming Message</string>
+</resources>
